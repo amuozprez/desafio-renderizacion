@@ -80,5 +80,6 @@ button:focus-visible {
 }
 
 .form{
+  text-align: center;
   width: 25%;
 }
